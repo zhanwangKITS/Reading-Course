@@ -1,3 +1,6 @@
+## This is the website for announcements and class materials!
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zhanwangKITS/Reading-Course/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
